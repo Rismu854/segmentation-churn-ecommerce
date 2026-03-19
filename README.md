@@ -257,10 +257,8 @@ Place le fichier dans : `data/raw/Online Retail.xlsx`
 
 ## 👨‍💻 Auteur
 
-**[Ton Nom]**
-- 💼 LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com)
-- 🐙 GitHub : [github.com/TON_USERNAME](https://github.com)
+**RAVOAVY Rismu**
+- 💼 LinkedIn : [www.linkedin.com/in/ravoavy-rismu-432543326](https://linkedin.com)
+- 🐙 GitHub : [github.com/Rismu854](https://github.com)
 
 ---
-
-*⭐ Si ce projet t'a été utile, n'hésite pas à lui donner une étoile sur GitHub !*
